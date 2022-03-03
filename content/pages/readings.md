@@ -10,7 +10,7 @@ uid: 131f25a2-dbfd-a732-2276-cf45f2eb8168
 Study Guide
 -----------
 
-{{< resource_link 984c636c-a2ef-65f4-0d20-3d6b4758a9d0 "Study Guide (PDF)" >}}: Questions to think about while you read.
+{{% resource_link 984c636c-a2ef-65f4-0d20-3d6b4758a9d0 "Study Guide (PDF)" %}}: Questions to think about while you read.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -62,7 +62,7 @@ B. Knowledge as Power / Knowledge as Virtue
 {{< tdopen >}}
 
 
-Plato. {{< resource_link dacf2871-2c74-d94a-e88a-474376a61cf0 "_The Meno by Plato_ (PDF)" >}}. CreateSpace Independent Publishing Platform, 2012. ISBN: 9781470143671.
+Plato. {{% resource_link dacf2871-2c74-d94a-e88a-474376a61cf0 "_The Meno by Plato_ (PDF)" %}}. CreateSpace Independent Publishing Platform, 2012. ISBN: 9781470143671.
 
 Witt, April. "[No Joke](https://www.washingtonpost.com/archive/lifestyle/magazine/2004/10/24/no-joke/882986fd-53f1-4443-95f8-f4f265d38f61/)." _The Washington Post,_ October 24, 2004.
 
@@ -91,7 +91,7 @@ Euclid. _Euclid's Elements_. Green Lion Press, 2002. ISBN: 9781888009194.
 *   [Book I](http://aleph0.clarku.edu/~djoyce/elements/bookI/defI1.html) (Definitions)
 *   [Book II](http://aleph0.clarku.edu/~djoyce/elements/bookII/bookII.html) (propositions 1 and 4)
 
-{{< resource_link e69bd5e1-9d47-2d89-8b5e-d62ac39dc7b8 "Instructor's guide to _Elements_ (PDF)" >}}.
+{{% resource_link e69bd5e1-9d47-2d89-8b5e-d62ac39dc7b8 "Instructor's guide to _Elements_ (PDF)" %}}.
 
 Aristotle. Book IV in [_Topics_](http://classics.mit.edu/Aristotle/topics.4.iv.html). NuVision Publications, 2005. ISBN: 9781595479723.
 
@@ -99,7 +99,7 @@ Pappus. ![This resource may not render correctly in a screen reader.](/images/in
 
 Descartes, Rene. _The Geometry of René Descartes: With a Facsimile of the First Edition_. Dover Publications, Incorporation, 1954. ISBN: 9780486600680.
 
-{{< resource_link 0129f5f3-e4df-3922-d8d5-b84c542f7df1 "Analysis and Synthesis (PDF)" >}}
+{{% resource_link 0129f5f3-e4df-3922-d8d5-b84c542f7df1 "Analysis and Synthesis (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -133,9 +133,9 @@ Euclid. _Euclid's Elements_. Green Lion Press, 2002. ISBN: 9781888009194.
 
 Aristotle. Chapters 6–8 in [_Categories_](http://classics.mit.edu/Aristotle/categories.html). CreateSpace Independent Publishing Platform, 2013. ISBN: 9781494853068.
 
-{{< resource_link 5b13b27d-d04b-d894-70ea-ac7449b8d185 "Summary of _Categories_ (PDF)" >}}
+{{% resource_link 5b13b27d-d04b-d894-70ea-ac7449b8d185 "Summary of _Categories_ (PDF)" %}}
 
-{{< resource_link fa90abe7-39bb-a35d-7974-268ef01de170 "Definitions of Arithmos and Unit (PDF)" >}}
+{{% resource_link fa90abe7-39bb-a35d-7974-268ef01de170 "Definitions of Arithmos and Unit (PDF)" %}}
 
 Nichomachus of Gerasa. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction to _Arithmetic_ (PDF - 11.8MB)](http://ia600709.us.archive.org/27/items/NicomachusIntroToArithmetic/nicomachus-intro-to-arithmetic_no-ocr.pdf).
 

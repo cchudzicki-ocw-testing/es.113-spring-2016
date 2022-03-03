@@ -34,7 +34,7 @@ Aristotle. _The Nichomachean Ethics_. Penguin Classics, 2004. ISBN: 978014044949
 
 Euclid. _Euclid's Elements_. Green Lion Press, 2002. ISBN: 9781888009194.
 
-See {{< resource_link 131f25a2-dbfd-a732-2276-cf45f2eb8168 "Readings" >}} section.
+See {{% resource_link 131f25a2-dbfd-a732-2276-cf45f2eb8168 "Readings" %}} section.
 
 ### Study Questions
 
@@ -56,4 +56,4 @@ Each student will be expected to spend one class in the "hot seat." This mean th
 
 Regular participation in class discussion is expected (if you have trouble speaking up in class, please talk to me and we will develop a strategy together.) In additional students will be called on throughout the semester to guide the class through selected mathematical proofs.
 
-For more information about the assignments, visit the {{< resource_link 28f4ae4b-1194-e800-c1d2-e1a0fe0f9645 "Assignments" >}} section.
+For more information about the assignments, visit the {{% resource_link 28f4ae4b-1194-e800-c1d2-e1a0fe0f9645 "Assignments" %}} section.
