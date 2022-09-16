@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a list of readings used in the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -95,7 +96,7 @@ Euclid. _Euclid's Elements_. Green Lion Press, 2002. ISBN: 9781888009194.
 
 Aristotle. Book IV in [_Topics_](http://classics.mit.edu/Aristotle/topics.4.iv.html). NuVision Publications, 2005. ISBN: 9781595479723.
 
-Pappus. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Commenary on Euclid_ (PDF)](http://www.ams.org/journals/bull/1931-37-07/S0002-9904-1931-05166-1/S0002-9904-1931-05166-1.pdf), Book I.
+Pappus. [_Commenary on Euclid_ (PDF)](http://www.ams.org/journals/bull/1931-37-07/S0002-9904-1931-05166-1/S0002-9904-1931-05166-1.pdf), Book I.
 
 Descartes, Rene. _The Geometry of René Descartes: With a Facsimile of the First Edition_. Dover Publications, Incorporation, 1954. ISBN: 9780486600680.
 
@@ -137,7 +138,7 @@ Aristotle. Chapters 6–8 in [_Categories_](http://classics.mit.edu/Aristotle/ca
 
 {{% resource_link fa90abe7-39bb-a35d-7974-268ef01de170 "Definitions of Arithmos and Unit (PDF)" %}}
 
-Nichomachus of Gerasa. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction to _Arithmetic_ (PDF - 11.8MB)](http://ia600709.us.archive.org/27/items/NicomachusIntroToArithmetic/nicomachus-intro-to-arithmetic_no-ocr.pdf).
+Nichomachus of Gerasa. [Introduction to _Arithmetic_ (PDF - 11.8MB)](http://ia600709.us.archive.org/27/items/NicomachusIntroToArithmetic/nicomachus-intro-to-arithmetic_no-ocr.pdf).
 
 
 {{< tdclose >}}
@@ -299,7 +300,7 @@ Richard Dedekind
 
 Newton, Isaac. _[Arithmetica Universalis: Sive de Compositione Et Resolutione Arithmetica](http://openlibrary.org/books/OL23375268M/Arithmetica_universalis)._ Vol. 1. Andesite Press, 2015. ISBN: 9781298734976.
 
-Dedekind, Richard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Essays on the Theory of Numbers: I. Continuity and Irrational Numbers. II. The Nature and Meaning of Numbers_ (PDF)](http://www.gutenberg.org/files/21016/21016-pdf.pdf?session_id=6871125646f4cb3d0d204d5cd40bc49547b5fd06). CreateSpace Independent Publishing Platform, 2016. ISBN: 9781534900974.
+Dedekind, Richard. [_Essays on the Theory of Numbers: I. Continuity and Irrational Numbers. II. The Nature and Meaning of Numbers_ (PDF)](http://www.gutenberg.org/files/21016/21016-pdf.pdf?session_id=6871125646f4cb3d0d204d5cd40bc49547b5fd06). CreateSpace Independent Publishing Platform, 2016. ISBN: 9781534900974.
 
 Shiffman, Mark. "[Descartes, Algebra, and Alienation](http://www.frontporchrepublic.com/2009/06/algebra/)." _Front Porch Republic_, June 19, 2009.
 
@@ -325,7 +326,7 @@ Shiffman, Mark. "[Descartes, Algebra, and Alienation](http://www.frontporchrepub
 
 Klein, Jacob. "The World of Physics and the 'Natural' World." _The St. John's Review_ 33, no. 1 (1981): 22–34.
 
-Hopkins, Burt C. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Basic Problem and Method of Klein's Mathematical Investigations](https://learning-modules.mit.edu/service/materials/groups/116463/files/721b8dbc-bf7d-4a1d-944d-88b8a67f3f72/link?errorRedirect=%2Fmaterials%2Findex.html)." In _The Origin of the Logic of Symbolic Mathematics: Edmund Husserl and Jacob Klein_. Indiana University Press, 2011. ISBN: 9780253356710. \[Preview with [Google Books](http://books.google.com/books?id=-e-Mn50Q0soC&pg=PA75=onepage)\]
+Hopkins, Burt C. "[The Basic Problem and Method of Klein's Mathematical Investigations](https://learning-modules.mit.edu/service/materials/groups/116463/files/721b8dbc-bf7d-4a1d-944d-88b8a67f3f72/link?errorRedirect=%2Fmaterials%2Findex.html)." In _The Origin of the Logic of Symbolic Mathematics: Edmund Husserl and Jacob Klein_. Indiana University Press, 2011. ISBN: 9780253356710. \[Preview with [Google Books](http://books.google.com/books?id=-e-Mn50Q0soC&pg=PA75=onepage)\]
 
 
 {{< tdclose >}}

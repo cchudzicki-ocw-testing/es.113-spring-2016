@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains resources that were supplemental but helpful to
+  understanding the material.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
